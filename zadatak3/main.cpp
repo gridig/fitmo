@@ -8,7 +8,7 @@ int main() {
 
     float km = 0.0f;
     float mi;
-    float conversionRate = 0.621;
+    const float conversionRate = 0.621;
 
     cout << "Unesite udaljenost u kilometrima:" << endl;
     cin >> km;
