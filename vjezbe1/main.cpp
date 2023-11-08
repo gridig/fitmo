@@ -10,7 +10,7 @@ int main()
     double decimalni2 = 2.3383337638724786234;
 
     cout << "Cijeli brojevi: " << broj << ", " << Broj << endl;
-    cout.precision(15);
+//    cout.precision(15);
     cout << "Decimalni brojevi: " << decimalni1 << ", " << decimalni2 << endl;
 
     int a = 5;
