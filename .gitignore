@@ -122,6 +122,7 @@ fabric.properties
 **/cmake-build-debug
 *.txt
 .DS_Store
+ARM64/
 .vs
 *.sln
 *.vcxproj
