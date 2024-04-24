@@ -1,3 +1,3 @@
 ## vjezbe
 
-Vjezbe za Programiranje I
+Programiranje I

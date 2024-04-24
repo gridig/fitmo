@@ -128,3 +128,10 @@ ARM64/
 *.vcxproj
 *.filters
 *.user
+*.tlog
+*.recipe
+*.ilk
+*.log
+*.idb
+*.pdb
+*.enc
